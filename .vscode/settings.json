@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/0d603427-603f-4c31-b3f0-0c1a706a178a/resourceGroups/MySource/providers/Microsoft.Web/sites/alanhotai-nextjs-test",
+    "appService.deploySubpath": "."
+}
